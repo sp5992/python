@@ -1,0 +1,22 @@
+[
+    {
+        "product_name": "Bottle",
+        "price": "Rs. 300",
+        "color": "red"
+    },
+    {
+        "product_name": "bowl",
+        "price": "Rs. 300",
+        "color": "velvet"
+    },
+    {
+        "product_name": "ceramics",
+        "price": "Rs. 300",
+        "color": "blue"
+    },
+    {
+        "product_name": "VASE",
+        "price": "Rs. 300",
+        "color": "rainbow"
+    }
+]
